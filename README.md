@@ -37,4 +37,4 @@ This project complies with the Udacity [Feed Reader Testing project rubric](http
 
 # License
 
-Copyright ©2018, Jennefer Aguda
+Copyright ©2019, Jennefer Aguda
